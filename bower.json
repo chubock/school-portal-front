@@ -1,0 +1,17 @@
+{
+  "name": "school-portal-front",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "yubar persia <yubar45@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
